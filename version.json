@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "date": "1405/05/13",
-  "notes": "رفع خطای «Failed to load Python DLL» هنگام باز شدن خودکار برنامه پس از به‌روزرسانی",
-  "url": "https://github.com/NeginEm98/sardkhane-saba-updates/releases/download/v1.0.2/SardkhanehSaba.exe"
+  "notes": "تأیید نهایی سامانه به‌روزرسانی خودکار",
+  "url": "https://github.com/NeginEm98/sardkhane-saba-updates/releases/download/v1.0.3/SardkhanehSaba.exe"
 }
