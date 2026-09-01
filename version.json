@@ -1,6 +1,1 @@
-{
-  "version": "1.0.4",
-  "date": "1405/05/13",
-  "notes": "افزودن سیستم فعال‌سازی و قفل نرم‌افزار روی سیستم مشتری",
-  "url": "https://github.com/NeginEm98/sardkhane-saba-updates/releases/download/v1.0.4/SardkhanehSaba.exe"
-}
+{"version": "1.0.5", "date": "1405/06/10", "notes": "رفع خطای چاپ و پیش‌نمایش • سورت شدن ستون‌های جدول‌ها • تسویه زودهنگام مشتری • سرچ مشتری با نام • گزارش کلی خواناتر • انتقال قیمت سبد به صفحه مشتری • رفع مشکل چسباندن کلید فعال‌سازی", "url": "https://github.com/NeginEm98/sardkhane-saba-updates/releases/download/v1.0.5/SardkhanehSaba.exe"}
